@@ -1227,6 +1227,26 @@
                 "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/692297611/O1CN01AknGFi265t12jdMN9_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
                 "price": "798.00"
             }
-        ]
+        ],
+        "subTags": [{
+            "id": 3001,
+            "tagName": "COOLBAR",
+            "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i3/594992150/O1CN01ksjxdT1Rkk87Wp05o_!!594992150.jpg_400x400q90.jpg"
+        },
+        {
+            "id": 3011,
+            "tagName": "eyeplay",
+            "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i4/746173362/O1CN01R9rIQG1ahqA1fvlWl_!!746173362.jpg_400x400q90.jpg"
+        },
+        {
+            "id": 3021,
+            "tagName": "Raydem/雷德蒙",
+            "imgUrl": "https://img.alicdn.com/imgextra/i1/1687455919/O1CN01PMcfOi1tawnFjRkGl_!!0-item_pic.jpg_400x400q90.jpg"
+        },
+        {
+            "id": 3031,
+            "tagName": "PARZIN/帕森",
+            "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i1/1732515655/O1CN01mNDo221re2L8LSouK_!!1732515655.jpg_400x400q90.jpg"
+        }]
     }
 }
