@@ -1,0 +1,664 @@
+{
+    "code" : "success",
+    "data" :     {
+        "endRow" : 8,
+        "hasNextPage" : 0,
+        "hasPreviousPage" : 0,
+        "isFirstPage" : 1,
+        "isLastPage" : 1,
+        "navigateFirstPage" : 1,
+        "navigateLastPage" : 1,
+        "navigatePages" : 8,
+        "navigatepageNums" : 1,
+        "nextPage" : 0,
+        "pageNum" : 1,
+        "pageSize" : 10,
+        "pages" : 1,
+        "prePage" : 0,
+        "size" : 8,
+        "startRow" : 1,
+        "total" : 8,
+        "list" :         [
+            {
+                "id": 881,
+                "name": "女装 柔软羊仔毛圆领针织衫(长袖) 418679 优衣库UNIQLO",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i2/13241395/O1CN01Ds2Uxd1MAx4GfmEN1_!!0-saturn_solar.jpg_360x360Q90.jpg_.webp",
+                "price": "149.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN015lUoNh1ewH6auiWZe_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01F5HvqS1ewH6Uuc2w5-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN017ujC1T1ewH6SSIyR3-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01FzYfgd1ewH6PonvjN-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01Hn3TzY1ewH6PoofRp-196993935.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/TB2DaldXRYxQeBjSszeXXa0spXa_!!196993935.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN013AVQqz1ewH4d2nQeO_!!196993935.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 882,
+                "name": "【设计师合作款】女装 圆领T恤(短袖) 424873 优衣库UNIQLO",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/196993935/O1CN010FEdmm1ewH6eWUoF7_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "79.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN010FEdmm1ewH6eWUoF7_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01aTGPCG1ewH6JNDXZ2-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01X7KZTs1ewH6JgvwH5-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01T5bdyN1ewH6JD5JDF-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01A3No6s1ewH6JND8fB-196993935.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01sMjwsq1ewH6kVg1bn_!!196993935.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN010GLcdc1ewH6nMjVeB_!!196993935.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN014Pwd1L1ewH6k8ANoZ_!!196993935.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01GSsAnh1ewH6kl37Ng_!!196993935.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01Ry95IZ1ewH6jGt6CT_!!196993935.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01f4xjwS1ewH6kzRo3g_!!196993935.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN019rkPQu1ewH6iPYvLq_!!196993935.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01irBq2I1ewH6JzzjvV_!!196993935.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01L50H6N1ewH6TvWaZK_!!196993935.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01AmjPWj1ewH6RPMmX8_!!196993935.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01fHoYjG1ewH6TvWSGT_!!196993935.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/TB2l7lnXKLyQeBjy0FaXXXiDVXa-196993935.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01zJsqbd1ewH6EynIiZ_!!196993935.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01znQx2X1ewH6EqECS2_!!196993935.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01ER4pLP1ewH6B7N3XW_!!196993935.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01rdVXkY1ewH6FlurEI_!!196993935.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01N0KLhd1ewH6AoGrh8_!!196993935.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01U0ss8V1ewH6CqqQBP_!!196993935.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01gekOIK1ewH6EymA3d_!!196993935.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01J5Essk1ewH6HNvOlM_!!196993935.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN017i5slS1ewH6B7Po2K_!!196993935.jpg"
+                    },
+                    {
+                        "id": 22,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01rTS9Ey1ewH6CYEAuP_!!196993935.jpg"
+                    },
+                    {
+                        "id": 23,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/TB2WTlaXNvxQeBjy0FiXXXioXXa_!!196993935.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 883,
+                "name": "女装 蝴蝶结领花式衬衫(长袖) 426206 优衣库UNIQLO",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/196993935/O1CN01MVTNn21ewH6e7obFI_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "199.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01MVTNn21ewH6e7obFI_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN013M28E81ewH6IPCbm3-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01qPEusX1ewH6OOfIgt-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01kYLdFs1ewH6LRiaYF-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN013iFNza1ewH6Q1Tn6c-196993935.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/TB2DaldXRYxQeBjSszeXXa0spXa_!!196993935.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01BLeP5h1ewH6FBvpgj_!!196993935.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01GGg5g21ewH3o8ybTT_!!196993935.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/TB2DRbmalTxQeBjSspkXXXtMpXa-196993935.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01wDmcYt1ewH5aWRUiW_!!196993935.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01Wi9b7d1ewH5aWRQZ3_!!196993935.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01VFOjEF1ewH5aWQ5QT_!!196993935.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN013SE6gj1ewH5gVpI1D_!!196993935.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN017O70Dh1ewH5aWQM34_!!196993935.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01ag7WUW1ewH5eDoCV6_!!196993935.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01PSrKku1ewH5fWS2Pv_!!196993935.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01G4fI0b1ewH5ZH969L_!!196993935.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01koPYqK1ewH5dPthOJ_!!196993935.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01xt0V7e1ewH5cg5IlM_!!196993935.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/TB2WTlaXNvxQeBjy0FiXXXioXXa_!!196993935.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 884,
+                "name": "女装 3D全棉V领打褶针织衫(五分袖) 422912 优衣库UNIQLO",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/196993935/O1CN01HgXmtF1ewH6id2ife_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "199.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01HgXmtF1ewH6id2ife_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01fBgL0V1ewH6bDm4kH-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01adqwOV1ewH6WiOtta-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01HsDL8Q1ewH6ZEIfJL-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01Nr0LkE1ewH6XArOCz-196993935.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/TB2DaldXRYxQeBjSszeXXa0spXa_!!196993935.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 885,
+                "name": "【设计师合作款】女装 牛仔茄克(水洗产品) 426148 优衣库NIQLO",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/196993935/O1CN01NKtRnl1ewH6fKfT1x_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "499.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01NKtRnl1ewH6fKfT1x_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01odQt8X1ewH6igaJ1h-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01EkZ7qP1ewH6jEsaSK-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN013Jvv4q1ewH6dV3zIo-196993935.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01xa23ug1ewH6hu8ZXz-196993935.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/TB2DaldXRYxQeBjSszeXXa0spXa_!!196993935.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01aiKnJ01ewH6Ot3Rnj_!!196993935.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01qyZU9d1ewH6KDl5MS_!!196993935.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01N7UEMP1ewH6TKwa22_!!196993935.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01md9lEy1ewH6SUI6KO_!!196993935.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01N7TAb91ewH6TxNeZw_!!196993935.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01K1xtv21ewH6KDkLeK_!!196993935.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01moncye1ewH6QCd1TW_!!196993935.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01sNRFJG1ewH6TxOOIF_!!196993935.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/196993935/O1CN01suBf4I1ewH6S7UAKN_!!196993935.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01n3cSeP1ewH6PqnvWO_!!196993935.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/O1CN01hzwzS21ewH6WYKrYb_!!196993935.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01iqv3tv1ewH6VU8OT2_!!196993935.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i4/196993935/O1CN01s4kFhu1ewH6TxPb8q_!!196993935.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i1/196993935/O1CN01tczdNB1ewH6W8CdSw_!!196993935.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i2/196993935/TB2WTlaXNvxQeBjy0FiXXXioXXa_!!196993935.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 886,
+                "name": "优衣库UNIQLO 代购 女装 休闲风衣 424589 大衣 原599",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i4/675111907/O1CN01jt6kCO1PxRsXNaDkg_!!675111907.jpg_360x360Q90.jpg_.webp",
+                "price": "439.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd2.alicdn.com/imgextra/i4/675111907/O1CN01jt6kCO1PxRsXNaDkg_!!675111907.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/675111907/O1CN01x5uO5Y1PxRsUc9bJX_!!675111907.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/675111907/O1CN01Jp30Yq1PxRsUeuLEQ_!!675111907.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/675111907/O1CN01Y3J4Y21PxRsHuXvZ4_!!675111907.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/675111907/O1CN01nVzu7t1PxRsTp6QdY_!!675111907.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/675111907/O1CN01nVzu7t1PxRsTp6QdY_!!675111907.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/675111907/O1CN01bFVhQ21PxRrYmd1Z0_!!675111907.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/675111907/O1CN01HJb17x1PxRsGw3b1a_!!675111907.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/675111907/O1CN01Y3J4Y21PxRsHuXvZ4_!!675111907.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/675111907/O1CN01s2Ae501PxRsK5ENRQ_!!675111907.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/675111907/TB2Uq6NxC0mpuFjSZPiXXbssVXa_!!675111907.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/675111907/TB2y6_yxt0opuFjSZFxXXaDNVXa_!!675111907.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 887,
+                "name": "【U系列合作款】女装宽松上衣(长袖)425650优衣库日本代购",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/71190092/O1CN01W8CLUq1CYB1RA2ugj_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "249.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/0/O1CN01W8CLUq1CYB1RA2ugj_!!0-item_pic.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/71190092/O1CN01HUDOuW1CYB1X7wrjt_!!71190092.png_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/71190092/O1CN01377xTj1CYB1SflPyP_!!71190092.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 888,
+                "name": "【U系列合作款】女装 针织休闲夹克427731日本代购优衣库",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/71190092/O1CN01lMBGHT1CYB1bDjlPm_!!71190092.png_360x360Q90.jpg_.webp",
+                "price": "638.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd3.alicdn.com/imgextra/i2/71190092/O1CN01lMBGHT1CYB1bDjlPm_!!71190092.png_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/71190092/O1CN0142CJij1CYB1WIsNPF_!!71190092.png_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/71190092/O1CN01ifZle11CYB1X5wysB_!!71190092.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/71190092/O1CN01aNFQG01CYB1UpUEAS_!!71190092.png"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/71190092/O1CN01mHDgQH1CYB1X96x2W_!!71190092.png"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/71190092/O1CN0142CJij1CYB1WIsNPF_!!71190092.png"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/71190092/O1CN01n2K3YS1CYB1bDcNXd_!!71190092.png"
+                    }
+                ]
+            },
+            {
+                "id": 889,
+                "name": "Silence 代购 优衣库UNIQLO 女装 休闲风衣 424589 原599",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2207380162617/O1CN01FnWLc11VCd5m33xQE_!!2207380162617.jpg_360x360Q90.jpg_.webp",
+                "price": "389.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd1.alicdn.com/imgextra/i4/2207380162617/O1CN01FnWLc11VCd5m33xQE_!!2207380162617.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/2207380162617/O1CN010jC5lw1VCd5iY5LxF_!!2207380162617.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/2207380162617/O1CN019xwXKb1VCd5jN4BIS_!!2207380162617.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd4.alicdn.com/imgextra/i4/2207380162617/O1CN01BRlDMl1VCd5ZNyfL4_!!2207380162617.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/2207380162617/O1CN01u1tlmn1VCd5iY4974_!!2207380162617.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2207380162617/O1CN01FnWLc11VCd5m33xQE_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/2207380162617/O1CN01bhyMcQ1VCd5iA25F3_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/2207380162617/O1CN01o0fZt31VCd5mi590o_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2207380162617/O1CN01d6EBFq1VCd5f0uSHC_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/2207380162617/O1CN019xwXKb1VCd5jN4BIS_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/2207380162617/O1CN0102eqbV1VCd5kApXxb_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/2207380162617/O1CN010jC5lw1VCd5iY5LxF_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/2207380162617/O1CN01BRlDMl1VCd5ZNyfL4_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i2/2207380162617/O1CN01u1tlmn1VCd5iY4974_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/2207380162617/O1CN0145f1EK1VCd5kAofyF_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i2/2207380162617/O1CN01sL56Oa1VCd5fLWxyR_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i1/2207380162617/O1CN0166z5MZ1VCd5lNG6f0_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/2207380162617/O1CN01O0azcN1VCd5e365IK_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i3/2207380162617/O1CN01BhDtG21VCd5f0uzVm_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i2/2207380162617/O1CN01HdeaPw1VCd5hdPw4D_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i3/2207380162617/O1CN01Jxj6h91VCd5hI08qJ_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i2/2207380162617/O1CN01n6w6av1VCd5e36Q2A_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i3/2207380162617/O1CN01uyWOT51VCd5hdPbGM_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 19,
+                        "url": "https://img.alicdn.com/imgextra/i2/2207380162617/O1CN014gALg81VCd5ZO04bc_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 20,
+                        "url": "https://img.alicdn.com/imgextra/i1/2207380162617/O1CN01eWsuSX1VCd5lNFyIU_!!2207380162617.jpg"
+                    },
+                    {
+                        "id": 21,
+                        "url": "https://img.alicdn.com/imgextra/i4/2207380162617/O1CN01HOf7km1VCd5hgliei_!!2207380162617.png"
+                    }
+                ]
+            },
+            {
+                "id": 890,
+                "name": "【设计师合作款】女装 3D圆领针织衫(长袖) 425674 优衣库UNIQLO",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/408506732/O1CN017jqHpl1zbItxXOuBM_!!408506732.jpg_360x360Q90.jpg_.webp",
+                "price": "299.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/408506732/O1CN017jqHpl1zbItxXOuBM_!!408506732.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/408506732/O1CN01Q2kLFm1zbItvpfezo_!!408506732.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/408506732/O1CN01Bz4lIw1zbIttjyATV_!!408506732.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/408506732/O1CN01d2OcCp1zbIttnYgtp_!!408506732.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/408506732/O1CN01cDeBqt1zbItnFU6rs_!!408506732.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}
